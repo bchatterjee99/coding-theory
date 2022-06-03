@@ -1,7 +1,7 @@
 #-*-sh-*-
 
 
-file=aaa.c
+file=hadamard.c
 flags="-g -z execstack -fno-stack-protector"
 
 

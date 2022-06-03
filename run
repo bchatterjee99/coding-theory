@@ -1,0 +1,13 @@
+#-*-sh-*-
+
+
+file=aaa.c
+flags="-g -z execstack -fno-stack-protector"
+
+
+if gcc $flags $file; then
+    echo -e "\n\n  compile hoe geche\n\n";
+    ./a.out
+else
+    echo -e "\n\n  hocche na\n\n";
+fi

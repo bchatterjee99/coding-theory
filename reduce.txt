@@ -1,0 +1,33 @@
+
+
+  compile hoe geche
+
+
+reduce: 54
+(a^54 + a^45 + a^27)
+reduce: 49
+(a^49 + a^48 + a^45 + a^27)
+reduce: 48
+(a^48 + a^45 + a^44 + a^43 + a^27)
+reduce: 45
+(a^45 + a^44 + a^42 + a^27)
+reduce: 44
+(a^44 + a^42 + a^40 + a^39 + a^27)
+reduce: 42
+(a^42 + a^40 + a^38 + a^27)
+reduce: 40
+(a^40 + a^38 + a^37 + a^36 + a^27)
+reduce: 38
+(a^38 + a^37 + a^36 + a^35 + a^34 + a^27)
+reduce: 37
+(a^37 + a^36 + a^35 + a^34 + a^33 + a^32 + a^27)
+reduce: 36
+(a^36 + a^35 + a^34 + a^33 + a^31 + a^27)
+reduce: 35
+(a^35 + a^34 + a^33 + a^30 + a^27)
+reduce: 34
+(a^34 + a^33 + a^29 + a^27)
+reduce: 33
+(a^33 + a^28 + a^27)
+0
+
